@@ -3,8 +3,8 @@
 
 <table>
   <tr >
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenMonty&theme=blue-green"/></td>
-    <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMonty&theme=blue-green"/></td>
+<!--     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=StevenMonty&theme=blue-green"/></td> -->
+<!--     <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMonty&theme=blue-green"/></td> -->
   </tr>
 </table>
 
